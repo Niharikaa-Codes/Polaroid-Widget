@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
-*{
-    margin:0;
-    
+* {
+    margin: 0;
 }
 
 body {
-    /*margin-top: 7em;*/
-   background-color: #8777a6af;
-   -webkit-app-region: drag;
+    background-color: #8777a6af;
+    /*margin-top: 1em;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-app-region: drag;
 
 }
 
@@ -67,7 +69,6 @@ body {
     background-color: #8777a6af;
     padding: 1em;
     text-align: center;
-    align-content: center;
     perspective: 1000px;
 }
 
@@ -78,6 +79,7 @@ body {
     transform-style: preserve-3d;
     transition: transform 0.6s;
     -webkit-app-region: no-drag;
+    box-shadow: 0px 0px 10px 4px #838181;
 }
 
 .front,
@@ -86,6 +88,10 @@ body {
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.605);
 }
 
 .front img {
@@ -95,22 +101,11 @@ body {
 }
 
 .front {
-    background-color: rgba(255, 255, 255, 0.605);
-    box-shadow: 0px 0px 10px 4px #838181;
-    display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color:#F38BBD;
+    color: #F38BBD;
 }
 
 .back {
-    background-color: rgba(255, 255, 255, 0.605);
-    box-shadow: 0px 0px 10px 4px #838181;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
     transform: rotateY(180deg);
     font-family: "Cedarville Cursive", cursive;
     font-weight: 500;
