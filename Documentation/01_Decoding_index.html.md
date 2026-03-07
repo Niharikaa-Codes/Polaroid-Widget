@@ -44,6 +44,20 @@ Therefore, the structure for the HTML file is pretty simple.
 
  Here you can see what happens if you replicate multiple `.cards` within the same `.card-container`:
 
+ ![Screenshot of multiple cards inside the same card container](assets/without_flex.png)
+ The cards go vertically downwards because the `.card-container` is not a flexbox.
+
+ We can change it by doing `display:flex`:
+ ![Screenshot of multiple cards inside the same card container but now the card container is a flex box](assets/with_flex.png)
+
+ You see, the cards shrink. Let's increase the width of the card-container by `flex: 0 0 180em`:
+ ![Screenshot where the card container's size is increased to avoid shrinl](assets/increased_width.png)
+
+ And let's see, if I hover over the second card:
+ ![Hovering over the second card flips all the cards](assets/hover_one.png)
+ You can see all the cards get flipped.\
+ It is hard to show a choppy flip in an image, but if you want, you can go ahead and try it on your own by doing `.card:hover` instead of `.card-container: hover .card` in your stylesheet.
+
 
  That's all the concepts for this `index.html`.
 
