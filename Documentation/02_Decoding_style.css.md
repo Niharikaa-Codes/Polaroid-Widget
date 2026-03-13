@@ -211,4 +211,4 @@ Making the card flip (rotate vertically along the Y axis) by 180 degrees.
 That's it for your stylesheet guys!✨
 
 Need help with Electron: [Electron Tutorial](03_Desktop_Widget_using_Electron.md)\
-Wanna clarify your concepts: [Watch my YouTube Video]()
+Wanna clarify your concepts: [Watch my YouTube Video](https://youtu.be/4XQ0EkqmPJ4)
