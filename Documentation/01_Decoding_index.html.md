@@ -63,4 +63,4 @@ Therefore, the structure for the HTML file is pretty simple.
 
  If need some help with the CSS: [02_Decoding_style.css.md](02_Decoding_style.css.md)\
  Need an Electron Tutorial: [03_Desktop_Widget_using_Electron.md](03_Desktop_Widget_using_Electron.md)\
- Need to clarify concepts: [Watch My YouTube Video]()
+ Need to clarify concepts: [Watch My YouTube Video](https://youtu.be/4XQ0EkqmPJ4)
