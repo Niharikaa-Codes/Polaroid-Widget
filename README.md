@@ -6,7 +6,7 @@ Hey guys! This idea was inspired by my love for Polaroids and Gift Giving. I wan
 ![Screenshot of My Polaroid-Widget App](/Documentation/assets/Polaroid_app.png)
 
 Electron has been gaining quite some popularity recently, and I would say it is pretty easy to work with. Some people also have mixed opinions about it due to it's high resource utility, but I wanted to just build a fun project. But, with all this attention still, I couldn't find a good tutorial on it. One that just told me how to make the app. So, I took it on myself to make a pretty easy tutorial. For people who don't have experince with JavaScript and Node.js would still be able to follow through to make their own apps.\
-If you wanna follow through with creating your own Electron app: [Electron Tutorial.](03_Desktop_Widget_using_Electron.md)\
+If you wanna follow through with creating your own Electron app: [Electron Tutorial.](Documentation/03_Desktop_Widget_using_Electron.md)\
 But if you first wanna get an overview of this project, keep reading.
 
 ## 💌 Features of Polaroid-Widget
