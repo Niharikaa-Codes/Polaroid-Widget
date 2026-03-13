@@ -142,6 +142,6 @@ Rerun your app, and your app background should be transparent.
 
 
 That's it guys!\
-If you have any further doubts: [Watch my YouTube Video]()\
+If you have any further doubts: [Watch my YouTube Video](https://youtu.be/4XQ0EkqmPJ4)\
 Need help with index.html: [Decoding index.html](01_Decoding_index.html.md)\
 Need help with style.css: [Decoding style.css](02_Decoding_style.css.md)
