@@ -34,9 +34,9 @@ Here's a quick navigation guide for this repository:
 ## 📚 Documentation
 
 Here's all the direct links to the documentations:
-- 🧩[Decoding_index.html](docs/01_Decoding_index.html.md)
-- 🎨[Decoding_style.css](docs/02_Decoding_style.css.md)
-- ⚡[Electron Tutorial](docs/03_Desktop_Widget_using_Electron.md)
+- 🧩[Decoding_index.html](Documentation/01_Decoding_index.html.md)
+- 🎨[Decoding_style.css](Documentation/02_Decoding_style.css.md)
+- ⚡[Electron Tutorial](Documentation/03_Desktop_Widget_using_Electron.md)
 
 ## 🔗 Additional Resources
 
