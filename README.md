@@ -41,7 +41,7 @@ Here's all the direct links to the documentations:
 ## 🔗 Additional Resources
 
 Here's additional resources that might be helpful:
-- ▶️[Watch my YouTube Tutorial]()
+- ▶️[Watch my YouTube Tutorial](https://youtu.be/4XQ0EkqmPJ4)
 - ⚛️[Electron Official Documentation](https://www.electronjs.org/docs/latest/)
 - 🌐[Google Fonts](https://fonts.google.com/)
 
